@@ -1,6 +1,4 @@
-import { toast } from 'react-toastify';
-import { SINGLE_PRODUCT_MOCK_URL } from '../constants/productConstants'
-import axios, { AxiosError, AxiosResponse } from "axios";
+import axios from "axios";
 
 const makeDelay = (delay) =>{
     return new Promise(
