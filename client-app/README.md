@@ -4,16 +4,18 @@
 ### Installation and how to run the app
 
 1. Clone the project to local
+
+2. Open the folder called 'ClassicTee' in/with your IDE (Visual Studio Code, et cetera)
    
-2. Open a new terminal, go to the client-app using the command below
+3. Open a new terminal, go to the client-app using the command below
 
 cd client-app
 
-3. Install dependency for the client side
+4. Install dependency for the client side
 
 npm i
 
-4. Run the client side using the command below
+5. Run the client side using the command below
 
 npm start
 
